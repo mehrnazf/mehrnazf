@@ -1,0 +1,5 @@
+- Hi, I’m @mehrnazf
+- I’m interested in programming and developing web applications 
+- I’m currently learning React and RoR
+- I’m looking to collaborate on PHP, RoR applications with React on front-end
+- reach me through my email fattahi.mehrnaz@gmail.com or linkedin account https://www.linkedin.com/in/mehrnaz-fattahi-21b19340
